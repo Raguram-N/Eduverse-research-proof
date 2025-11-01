@@ -27,11 +27,9 @@ A compilation of **global and Indian research studies (2020–2025)** demonstrat
 | 20 | **DRPress (2023)** | Meta-analysis confirmed **large effect sizes** for AR/VR-based math learning in primary and secondary education. |
 
 🔗 **Full References**  
-- Stanford University (2022) – [Virtual Reality Classroom Study](https://ed.stanford.edu/news/virtual-reality-classroom-study)  
-- PwC (2021) – [Effectiveness of VR Soft Skills Training](https://www.pwc.com/VRlearning)  
+- Stanford University (2022) – [Virtual Reality Classroom Study](https://ed.stanford.edu/news/virtual-reality-classroom-study)   
 - UNESCO MGIEP (2022) – [Immersive Learning Report](https://mgiep.unesco.org/)  
-- IIT Delhi (2023) – [VR Chemistry Pilot](https://home.iitd.ac.in/news-vrchem23.php)  
-- NCERT Journal (2024) – [VR in School Education Review](https://journals.ncert.gov.in/IJET/article/view/1407)  
+- IIT Delhi (2023) – [VR Chemistry Pilot](https://home.iitd.ac.in/news-vrchem23.php)   
 - Springer (2020–2025) – [Immersive VR as Pedagogical Tool](https://link.springer.com/)  
 - Bayan College Journal (2023) – [VR and Experiential Learning in India](https://bayancollegeijmr.com/index.php/ijmr/article/view/114)  
 - Granthaalayah (2023) – [Virtual Reality and Inclusive Education](https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/view/5501)  
