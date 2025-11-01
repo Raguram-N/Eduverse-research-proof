@@ -1,4 +1,5 @@
-## 📚 Research Evidence: How Virtual Reality (VR) Enhances Concept Clarity in Education  
+## 📚 Research Evidence: 
+### How Virtual Reality (VR) Enhances Concept Clarity in Education 
 
 A compilation of **global and Indian research studies (2020–2025)** demonstrating how **Virtual Reality (VR)** improves **conceptual learning, comprehension, retention, engagement, and empathy** among students.
 
